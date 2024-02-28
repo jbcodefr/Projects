@@ -1,20 +1,13 @@
-# Index page
+# EXPERTS ON CROSS-PLATFORM APP DEVELOPMENT ,CLOUD NATIVE MACHINE LEARNING , AND AI SOLUTIONS
 
 
-# Welcome to MkDocs
+# Welcome to my Labs creates content and training 
+Our mission is to educate the world by training millions on vocational skills that directly lead to jobs or upskilling.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Subscribe to the [Jbcode YouTube Channel ](https://www.youtube.com/@JbCode) to get the latest content!
+Check Out Courses here https://www.udemy.com/user/jeanbosco-ninkam-noumssi/
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `📺 Latest YouTube Videos`
+  * [Cours complet sur Matlab pour débutants](https://youtu.be/kKdRgZLVxuQ)
+  * [HTML en 30 Minutes !](https://youtu.be/7t60VCmY7bQ)
