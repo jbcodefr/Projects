@@ -5,6 +5,16 @@ theme:
       - search.highlight
   logo: assets/logo.png
 extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: French
+      link: /fr/
+      lang: fr
+    - name: Italian
+      link: /it/
+      lang: it
   consent:
     title: Cookie consent
     description: >- 
@@ -12,3 +22,11 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://www.linkedin.com/company/80314529/
+      name: fontawesome/brands/linkedin
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<jbcodefr@gmail.com>
+copyright: Copyright &copy; 2016 - 2024 JbCode
+
