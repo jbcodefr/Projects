@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a735ce1-83dd-4984-a412-c950eb409d39" name="Changes" comment="upd">
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,7 @@
       <updated>1708701611437</updated>
       <workItem from="1708701626783" duration="4387000" />
       <workItem from="1708734690802" duration="238000" />
-      <workItem from="1709163370318" duration="1500000" />
+      <workItem from="1709163370318" duration="1707000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Github Actions">
       <option name="closed" value="true" />
@@ -166,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709164670891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="upd">
+      <option name="closed" value="true" />
+      <created>1709164883720</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709164883720</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upd">
+      <option name="closed" value="true" />
+      <created>1709165030938</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709165030938</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
