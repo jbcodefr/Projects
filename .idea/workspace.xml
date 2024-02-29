@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a735ce1-83dd-4984-a412-c950eb409d39" name="Changes" comment="upd">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +72,7 @@
       <recent name="C:\Users\j.noumssi\PycharmProjects\jbcode.fr\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\j.noumssi\PycharmProjects\Projects\docs" />
       <recent name="C:\Users\j.noumssi\PycharmProjects\Projects\assets" />
       <recent name="C:\Users\j.noumssi\PycharmProjects\jbcode.fr" />
     </key>
@@ -116,7 +119,7 @@
       <updated>1708701611437</updated>
       <workItem from="1708701626783" duration="4387000" />
       <workItem from="1708734690802" duration="238000" />
-      <workItem from="1709163370318" duration="1795000" />
+      <workItem from="1709163370318" duration="1908000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Github Actions">
       <option name="closed" value="true" />
@@ -190,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709165089205</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="upd">
+      <option name="closed" value="true" />
+      <created>1709165183862</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709165183862</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
